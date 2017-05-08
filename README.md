@@ -37,11 +37,8 @@ There are no known bugs at this time, but please contact the creator with questi
   * HTML
   * CSS (Bootstrap)
   * JavaScript (jQuery)
-  *
-  *
-
 
 ## Licensing
 This application features MIT licensing.
 
-Copyright &copy; 2017 **NAME** All Rights Reserved.
+Copyright &copy; 2017 **Brian Rush & Joe Parsley** 

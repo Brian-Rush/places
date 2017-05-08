@@ -1,0 +1,12 @@
+#show-places {
+  display: none;
+}
+
+.user-places {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.user-places:hover {
+  text-decoration: underline;
+}
