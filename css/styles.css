@@ -1,6 +1,6 @@
-#show-places {
-  display: none;
-}
+  #show-places {
+    display: none;
+  }
 
 .user-places {
   cursor: pointer;
@@ -8,5 +8,14 @@
 }
 
 .user-places:hover {
+  text-decoration: underline;
+}
+
+.name-location {
+  cursor: pointer;
+  color: red;
+}
+
+.name-location:hover {
   text-decoration: underline;
 }
